@@ -8,3 +8,8 @@ date: "2024-01-02"
 plot(mtcars$hp)
 ```
 #Testing adding plots
+
+```{r}
+plot(iris$Sepal.Length)
+```
+
