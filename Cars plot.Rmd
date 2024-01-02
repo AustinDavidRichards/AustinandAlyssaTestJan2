@@ -1,0 +1,10 @@
+---
+title: "Github Test Cars Plots"
+output: html_document
+date: "2024-01-02"
+---
+
+```{r}
+plot(mtcars$hp)
+```
+#Testing adding plots
